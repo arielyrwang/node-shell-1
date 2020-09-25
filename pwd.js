@@ -1,4 +1,4 @@
-let pwd = function(){
+let pwd = function() {
     process.stdout.write(__dirname);
     process.stdout.write('\nprompt > ')
   }
